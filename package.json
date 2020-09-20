@@ -1,0 +1,23 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "An application to build a portfolio.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janimuhlestein/portfolio-generator.git"
+  },
+  "keywords": [
+    "github",
+    "profile"
+  ],
+  "author": "Jani Muhlestein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janimuhlestein/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/janimuhlestein/portfolio-generator#readme"
+}
